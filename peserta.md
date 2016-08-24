@@ -19,3 +19,4 @@
 | raefaldhia | raefaldhia | raefaldhia.github.io | 1-4 |
 | hanstananda | hanstananda | http://hanstananda.github.io ||
 | nathaniasaphira | nathaniasaphira | nathaniasaphira.github.io | |
+| tinarcison | tinarcison | tinarcison.github.io | |
